@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<!-- 在填写标签的时候一定注意其顺序 -->
+<!-- spring.xml中配置了，这里可以不用配置了 -->
+<configuration>
+<!--    <properties resource="db.properties" />-->
+<!--    <settings>-->
+<!--        <setting name="mapUnderscoreToCamelCase" value="true"/>-->
+<!--    </settings>-->
+<!--    <environments default="development">-->
+<!--        <environment id="development">-->
+<!--            <transactionManager type="JDBC" />-->
+<!--            <dataSource type="POOLED">-->
+<!--                <property name="driver" value="${driver}"/>-->
+<!--                <property name="url" value="${url}"/>-->
+<!--                <property name="username" value="${username}"/>-->
+<!--                <property name="password" value="${password}"/>-->
+<!--            </dataSource>-->
+<!--        </environment>-->
+<!--    </environments>-->
+<!--    <mappers>-->
+<!--        <package name="com.lisz.dao"/>-->
+<!--    </mappers>-->
+</configuration>
